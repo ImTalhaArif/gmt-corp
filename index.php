@@ -3,6 +3,18 @@
 
  <!-- Carousel Start -->
  <div class="container-fluid p-0 mb-5">
+    <div class="row">
+        <div class="col-md-2">
+        <div class="card w-100 h-100" style="background: url('img/exclusive-img.jpg') no-repeat center center/cover;">
+
+        <h2 style="color: white; padding: 5px" class="ml-2 mt-5">Exclusive HOT Deals!</h2>
+        <button class="btn btn-danger p-3 m-2 mt-5">Check them Out!</button>
+
+
+            </div>
+
+        </div>
+        <div class="col-md-8">
         <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
@@ -52,6 +64,23 @@
             </button>
         </div>
     </div>
+    <div class="col-md-2" style="background-color: #0dcaf0">
+
+
+        <h2 class="bg-info lg p-3 mr-5" style="float: left; background-color:rgb(4, 149, 178) ">GMT GLOBAL</h2>
+        <ul class="list list-lg">
+            <li class="btn btn-lg btn-info p-2 m-2">GMT ASIA</li>
+            <li class="btn btn-lg btn-info p-2 m-2">GMT AFRICA</li>
+            <li class="btn btn-lg btn-info p-2 m-2">GMT AMERICA</li>
+            <li class="btn btn-lg btn-info p-2 m-2">GMT AUSTRALIA</li>
+            <li class="btn btn-lg btn-info p-2 m-2">GMT OCEANIA</li>
+            <li class="btn btn-lg btn-info p-2 m-2">GMT EUROPE</li>
+
+
+
+    </div>
+
+</div></div>
     <!-- Carousel End -->
 
 
