@@ -1,9 +1,9 @@
 {
     "version": 2,
-    "builds": [
+    "routes": [
       {
-        "src": "Dockerfile",
-        "use": "@vercel/docker"
+        "src": "/(.*)",
+        "dest": "/api/php.js"
       }
     ]
   }
